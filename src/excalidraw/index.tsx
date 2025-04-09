@@ -218,7 +218,7 @@ export {
   getNonDeletedElements,
 } from "@excalidraw/element";
 
-export { getTextFromElements } from "@excalidraw/element";
+export { getTextFromElements } from "@excalidraw/element/textElement";
 export { isInvisiblySmallElement } from "@excalidraw/element/sizeHelpers";
 
 export { defaultLang, useI18n, languages } from "./i18n";

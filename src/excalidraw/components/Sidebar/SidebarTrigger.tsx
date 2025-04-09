@@ -39,6 +39,7 @@ export const SidebarTrigger = ({
       />
       <div className={clsx("sidebar-trigger", className)} style={style}>
         {icon && <div>{icon}</div>}
+        {icon && <div>{icon}</div>}
         {children && <div className="sidebar-trigger__label">{children}</div>}
       </div>
     </label>
