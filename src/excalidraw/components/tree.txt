@@ -1,0 +1,274 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 6E1F-1A82
+D:.
+│  Actions.scss
+│  Actions.tsx
+│  ActiveConfirmDialog.tsx
+│  App.tsx
+│  Avatar.scss
+│  Avatar.tsx
+│  BraveMeasureTextError.tsx
+│  Button.scss
+│  Button.tsx
+│  ButtonIcon.scss
+│  ButtonIcon.tsx
+│  ButtonIconCycle.tsx
+│  ButtonIconSelect.tsx
+│  ButtonSelect.tsx
+│  ButtonSeparator.tsx
+│  Card.scss
+│  Card.tsx
+│  CheckboxItem.scss
+│  CheckboxItem.tsx
+│  ConfirmDialog.scss
+│  ConfirmDialog.tsx
+│  ContextMenu.scss
+│  ContextMenu.tsx
+│  DarkModeToggle.tsx
+│  DefaultSidebar.test.tsx
+│  DefaultSidebar.tsx
+│  Dialog.scss
+│  Dialog.tsx
+│  DialogActionButton.scss
+│  DialogActionButton.tsx
+│  ElementCanvasButtons.scss
+│  ElementCanvasButtons.tsx
+│  ElementLinkDialog.scss
+│  ElementLinkDialog.tsx
+│  ErrorDialog.tsx
+│  ExcalidrawLogo.scss
+│  ExcalidrawLogo.tsx
+│  ExportDialog.scss
+│  EyeDropper.scss
+│  EyeDropper.tsx
+│  FilledButton.scss
+│  FilledButton.tsx
+│  FixedSideContainer.scss
+│  FixedSideContainer.tsx
+│  HandButton.tsx
+│  HelpButton.tsx
+│  HelpDialog.scss
+│  HelpDialog.tsx
+│  HintViewer.scss
+│  HintViewer.tsx
+│  IconPicker.scss
+│  IconPicker.tsx
+│  icons.tsx
+│  ImageExportDialog.scss
+│  ImageExportDialog.tsx
+│  InitializeApp.tsx
+│  InlineIcon.tsx
+│  Island.scss
+│  Island.tsx
+│  JSONExportDialog.tsx
+│  LaserPointerButton.tsx
+│  LayerUI.scss
+│  LayerUI.tsx
+│  LibraryMenu.scss
+│  LibraryMenu.tsx
+│  LibraryMenuBrowseButton.tsx
+│  LibraryMenuControlButtons.tsx
+│  LibraryMenuHeaderContent.tsx
+│  LibraryMenuItems.scss
+│  LibraryMenuItems.tsx
+│  LibraryMenuSection.tsx
+│  LibraryUnit.scss
+│  LibraryUnit.tsx
+│  LoadingMessage.tsx
+│  LockButton.tsx
+│  MagicButton.tsx
+│  MobileMenu.tsx
+│  Modal.scss
+│  Modal.tsx
+│  Paragraph.tsx
+│  PasteChartDialog.scss
+│  PasteChartDialog.tsx
+│  PenModeButton.tsx
+│  Popover.scss
+│  Popover.tsx
+│  ProjectName.scss
+│  ProjectName.tsx
+│  PropertiesPopover.tsx
+│  PublishLibrary.scss
+│  PublishLibrary.tsx
+│  QuickSearch.scss
+│  QuickSearch.tsx
+│  RadioGroup.scss
+│  RadioGroup.tsx
+│  Range.scss
+│  Range.tsx
+│  ScrollableList.scss
+│  ScrollableList.tsx
+│  SearchMenu.scss
+│  SearchMenu.tsx
+│  Section.tsx
+│  shapes.tsx
+│  ShareableLinkDialog.scss
+│  ShareableLinkDialog.tsx
+│  Spinner.scss
+│  Spinner.tsx
+│  Stack.scss
+│  Stack.tsx
+│  SVGLayer.scss
+│  SVGLayer.tsx
+│  Switch.scss
+│  Switch.tsx
+│  TextField.scss
+│  TextField.tsx
+│  TextInput.scss
+│  Toast.scss
+│  Toast.tsx
+│  Toolbar.scss
+│  ToolButton.tsx
+│  ToolIcon.scss
+│  Tooltip.scss
+│  Tooltip.tsx
+│  Trans.test.tsx
+│  Trans.tsx
+│  tree.txt
+│  UserList.scss
+│  UserList.tsx
+│  
+├─canvases
+│      index.tsx
+│      InteractiveCanvas.tsx
+│      NewElementCanvas.tsx
+│      StaticCanvas.tsx
+│      
+├─ColorPicker
+│      ColorInput.tsx
+│      ColorPicker.scss
+│      ColorPicker.tsx
+│      colorPickerUtils.ts
+│      CustomColorList.tsx
+│      HotkeyLabel.tsx
+│      keyboardNavHandlers.ts
+│      Picker.tsx
+│      PickerColorList.tsx
+│      PickerHeading.tsx
+│      ShadeList.tsx
+│      TopPicks.tsx
+│      
+├─CommandPalette
+│      CommandPalette.scss
+│      CommandPalette.tsx
+│      defaultCommandPaletteItems.ts
+│      types.ts
+│      
+├─DiagramToCodePlugin
+│      DiagramToCodePlugin.tsx
+│      
+├─dropdownMenu
+│      common.ts
+│      DropdownMenu.scss
+│      DropdownMenu.test.tsx
+│      DropdownMenu.tsx
+│      DropdownMenuContent.tsx
+│      DropdownMenuGroup.tsx
+│      DropdownMenuItem.tsx
+│      DropdownMenuItemContent.tsx
+│      DropdownMenuItemContentRadio.tsx
+│      DropdownMenuItemCustom.tsx
+│      DropdownMenuItemLink.tsx
+│      DropdownMenuSeparator.tsx
+│      DropdownMenuTrigger.tsx
+│      dropdownMenuUtils.ts
+│      
+├─FollowMode
+│      FollowMode.scss
+│      FollowMode.tsx
+│      
+├─FontPicker
+│      FontPicker.scss
+│      FontPicker.tsx
+│      FontPickerList.tsx
+│      FontPickerTrigger.tsx
+│      keyboardNavHandlers.ts
+│      
+├─footer
+│      Footer.tsx
+│      FooterCenter.scss
+│      FooterCenter.tsx
+│      
+├─hoc
+│      withInternalFallback.test.tsx
+│      withInternalFallback.tsx
+│      
+├─hyperlink
+│      helpers.ts
+│      Hyperlink.scss
+│      Hyperlink.tsx
+│      
+├─live-collaboration
+│      LiveCollaborationTrigger.scss
+│      LiveCollaborationTrigger.tsx
+│      
+├─main-menu
+│      DefaultItems.scss
+│      DefaultItems.tsx
+│      MainMenu.tsx
+│      
+├─OverwriteConfirm
+│      OverwriteConfirm.scss
+│      OverwriteConfirm.tsx
+│      OverwriteConfirmActions.tsx
+│      OverwriteConfirmState.ts
+│      
+├─Sidebar
+│      common.ts
+│      Sidebar.scss
+│      Sidebar.test.tsx
+│      Sidebar.tsx
+│      SidebarHeader.tsx
+│      SidebarTab.tsx
+│      SidebarTabs.tsx
+│      SidebarTabTrigger.tsx
+│      SidebarTabTriggers.tsx
+│      SidebarTrigger.scss
+│      SidebarTrigger.tsx
+│      siderbar.test.helpers.tsx
+│      
+├─Stats
+│      Angle.tsx
+│      CanvasGrid.tsx
+│      Collapsible.tsx
+│      Dimension.tsx
+│      DragInput.scss
+│      DragInput.tsx
+│      FontSize.tsx
+│      index.tsx
+│      MultiAngle.tsx
+│      MultiDimension.tsx
+│      MultiFontSize.tsx
+│      MultiPosition.tsx
+│      Position.tsx
+│      Stats.scss
+│      stats.test.tsx
+│      utils.ts
+│      
+├─TTDDialog
+│      common.ts
+│      MermaidToExcalidraw.scss
+│      MermaidToExcalidraw.tsx
+│      TTDDialog.scss
+│      TTDDialog.tsx
+│      TTDDialogInput.tsx
+│      TTDDialogOutput.tsx
+│      TTDDialogPanel.tsx
+│      TTDDialogPanels.tsx
+│      TTDDialogSubmitShortcut.tsx
+│      TTDDialogTab.tsx
+│      TTDDialogTabs.tsx
+│      TTDDialogTabTrigger.tsx
+│      TTDDialogTabTriggers.tsx
+│      TTDDialogTrigger.tsx
+│      
+├─welcome-screen
+│      WelcomeScreen.Center.tsx
+│      WelcomeScreen.Hints.tsx
+│      WelcomeScreen.scss
+│      WelcomeScreen.tsx
+│      
+└─__snapshots__
+        App.test.tsx.snap
+        

@@ -1,0 +1,47 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 6E1F-1A82
+D:.
+│  CHANGELOG.md
+│  global.d.ts
+│  package.json
+│  README.md
+│  tree.txt
+│  tsconfig.json
+│  
+├─node_modules
+│  └─.bin
+│          cross-env
+│          cross-env-shell
+│          cross-env-shell.cmd
+│          cross-env.cmd
+│          node-which
+│          node-which.cmd
+│          tsc
+│          tsc.cmd
+│          tsserver
+│          tsserver.cmd
+│          woff2_compress.js
+│          woff2_compress.js.cmd
+│          woff2_decompress.js
+│          woff2_decompress.js.cmd
+│          
+├─src
+│      bbox.ts
+│      collision.ts
+│      export.ts
+│      index.ts
+│      shape.ts
+│      test-utils.ts
+│      withinBounds.ts
+│      
+└─tests
+    │  collision.test.ts
+    │  export.test.ts
+    │  geometry.test.ts
+    │  utils.unmocked.test.ts
+    │  withinBounds.test.ts
+    │  
+    └─__snapshots__
+            export.test.ts.snap
+            utils.test.ts.snap
+            

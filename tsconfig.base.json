@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "strict": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "jsx": "react-jsx",
+    "emitDeclarationOnly": true,
+    "paths": {
+      "@excalidraw/common": ["./src/common/src/index.ts"],
+      "@excalidraw/common/*": ["./src/common/src/*"],
+      "@excalidraw/element": ["./src/element/src/index.ts"],
+      "@excalidraw/element/*": ["./src/element/src/*"],
+      "@excalidraw/excalidraw": ["./src/excalidraw/index.tsx"],
+      "@excalidraw/excalidraw/*": ["./src/excalidraw/*"],
+      "@excalidraw/math": ["./src/math/src/index.ts"],
+      "@excalidraw/math/*": ["./src/math/src/*"],
+      "@excalidraw/utils": ["./src/utils/src/index.ts"],
+      "@excalidraw/utils/*": ["./src/utils/src/*"]
+    }
+  }
+}

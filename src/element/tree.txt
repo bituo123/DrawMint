@@ -1,0 +1,72 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 6E1F-1A82
+D:.
+│  .eslintrc.json
+│  global.d.ts
+│  package.json
+│  README.md
+│  tree.txt
+│  tsconfig.json
+│  
+├─src
+│      align.ts
+│      binding.ts
+│      bounds.ts
+│      collision.ts
+│      comparisons.ts
+│      containerCache.ts
+│      cropElement.ts
+│      distance.ts
+│      distribute.ts
+│      dragElements.ts
+│      duplicate.ts
+│      elbowArrow.ts
+│      elementLink.ts
+│      embeddable.ts
+│      flowchart.ts
+│      fractionalIndex.ts
+│      frame.ts
+│      groups.ts
+│      heading.ts
+│      image.ts
+│      index.ts
+│      linearElementEditor.ts
+│      mutateElement.ts
+│      newElement.ts
+│      renderElement.ts
+│      resizeElements.ts
+│      resizeTest.ts
+│      selection.ts
+│      Shape.ts
+│      ShapeCache.ts
+│      shapes.ts
+│      showSelectedShapeActions.ts
+│      sizeHelpers.ts
+│      sortElements.ts
+│      textElement.ts
+│      textMeasurements.ts
+│      textWrapping.ts
+│      transformHandles.ts
+│      typeChecks.ts
+│      types.ts
+│      utils.ts
+│      zindex.ts
+│      
+└─tests
+        align.test.tsx
+        binding.test.tsx
+        bounds.test.ts
+        duplicate.test.tsx
+        elbowArrow.test.tsx
+        flowchart.test.tsx
+        fractionalIndex.test.ts
+        frame.test.tsx
+        resize.test.tsx
+        selection.test.ts
+        sizeHelpers.test.ts
+        sortElements.test.ts
+        textElement.test.ts
+        textWrapping.test.ts
+        typeChecks.test.ts
+        zindex.test.tsx
+        

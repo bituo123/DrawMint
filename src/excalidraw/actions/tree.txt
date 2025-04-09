@@ -1,0 +1,50 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 6E1F-1A82
+D:.
+    actionAddToLibrary.ts
+    actionAlign.tsx
+    actionBoundText.tsx
+    actionCanvas.tsx
+    actionClipboard.tsx
+    actionCropEditor.tsx
+    actionDeleteSelected.test.tsx
+    actionDeleteSelected.tsx
+    actionDistribute.tsx
+    actionDuplicateSelection.test.tsx
+    actionDuplicateSelection.tsx
+    actionElementLink.ts
+    actionElementLock.test.tsx
+    actionElementLock.ts
+    actionEmbeddable.ts
+    actionExport.tsx
+    actionFinalize.tsx
+    actionFlip.test.tsx
+    actionFlip.ts
+    actionFrame.ts
+    actionGroup.tsx
+    actionHistory.tsx
+    actionLinearEditor.tsx
+    actionLink.tsx
+    actionMenu.tsx
+    actionNavigate.tsx
+    actionProperties.test.tsx
+    actionProperties.tsx
+    actionSelectAll.ts
+    actionStyles.ts
+    actionTextAutoResize.ts
+    actionToggleGridMode.tsx
+    actionToggleObjectsSnapMode.tsx
+    actionToggleSearchMenu.ts
+    actionToggleStats.tsx
+    actionToggleViewMode.tsx
+    actionToggleZenMode.tsx
+    actionZindex.tsx
+    index.ts
+    manager.tsx
+    register.ts
+    shortcuts.ts
+    tree.txt
+    types.ts
+    
+没有子文件夹 
+
