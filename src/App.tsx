@@ -1,16 +1,18 @@
-import { useState } from 'react'
-import './App.css'
-import { Excalidraw } from './excalidraw'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-function App() {
-  const [count, setCount] = useState(0)
+// 导入你的页面组件
+import Home from './pages/home';
+import Draw from './pages/draw';
 
+const App = () => {
   return (
-    <div style={{ height: "100vh",width: "100vw" }}>
-      <Excalidraw
-      />
-    </div>
-  )
-}
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/draw/:fileId" element={<Draw />} />
+      </Routes>
+    </BrowserRouter>
+  );
+};
 
-export default App
+export default App;
